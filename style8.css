@@ -1,0 +1,26 @@
+body{
+	text-align: center;
+	font-size: 14px;
+}
+.a{
+	width: 200px;
+	box-shadow: 0 0 4px 2px black;
+	margin: auto;
+}
+.title{
+	font-family: arial, sans-serif;
+	color: purple;
+	background-color: black;
+	padding: 8px;
+	font-size: 1.5rem;
+}
+.body{
+	font-family: italic;
+	text-align: justify;
+	padding: 8px;
+}
+.pie{
+	color: purple;
+	background-color: black;
+	padding: 8px;
+}
